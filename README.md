@@ -62,7 +62,7 @@ With hands-on experience in **C# and Python projects**, as well as academic rese
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yagmurcorum)  
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@corumyagmur)  
-[![Email](https://img.shields.io/badge/Email-corumyagmur%40hotmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:corumyagmur@hotmail.com)  
+[![Email](https://img.shields.io/badge/Email-corumyagmuur%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:corumyagmur@hotmail.com)  
 
 ---
 
