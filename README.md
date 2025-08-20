@@ -19,7 +19,7 @@ With hands-on experience in **C# and Python projects**, as well as academic rese
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 ![Pascal](https://img.shields.io/badge/Pascal-002147?style=for-the-badge&logo=delphi&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)  
+![SQL (Basic)](https://img.shields.io/badge/SQL-Basic-003B57?style=for-the-badge&logo=databricks&logoColor=white)  
 
 **AI / Machine Learning**  
 - NLP & Sentiment Analysis  
