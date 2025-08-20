@@ -17,6 +17,8 @@ With hands-on experience in **C# and Python projects**, as well as academic rese
 **Programming Languages**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![Pascal](https://img.shields.io/badge/Pascal-002147?style=for-the-badge&logo=delphi&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)  
 
 **AI / Machine Learning**  
@@ -28,11 +30,13 @@ With hands-on experience in **C# and Python projects**, as well as academic rese
 - Object-Oriented Programming (**C#**)  
 - File I/O with **StreamReader / StreamWriter**  
 - XML-based Data Management Systems  
-  
+
 **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Jupyter](https://img.shields.io/badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)  
+
 
 ---
 
