@@ -39,13 +39,20 @@ With hands-on experience in **C# and Python projects**, as well as academic rese
 
 
 ---
-
 ## 🚀 Selected Projects  
 
-- 📚 [**XML-Based Library System**](https://github.com/yagmurcorum/XML-Based-Library-System) – A library management system using XML in C#.  
-- 🎲 [**C# Lotto Generator**](https://github.com/yagmurcorum/Csharp-lotto-generator) – A lottery simulation project with file operations in C#.  
-- 📊 [**Sentiment Analysis Portfolio**](https://github.com/yagmurcorum/sentiment-analysis-portfolio) – NLP project analyzing sentiments using Python.  
-- 🎓 [**Student Grade Management System**](https://github.com/yagmurcorum/OgrenciNotYonetimSistemi) – A C# project for managing student grades.  
+- 📚 [**XML-Based Library System**](https://github.com/yagmurcorum/XML-Based-Library-System) –  
+  A library management system using XML in C#.  
+
+- 🧠 [**Intel Image Classification**](https://github.com/yagmurcorum/intel-image-classification) –  
+  6-class image classification using **CNN** and **EfficientNet-B0** architectures for feature extraction and transfer learning.  
+
+- 📊 [**Sentiment Analysis Portfolio**](https://github.com/yagmurcorum/sentiment-analysis-portfolio) –  
+  NLP project analyzing sentiments using Python.  
+
+- 🎓 [**Student Grade Management System**](https://github.com/yagmurcorum/OgrenciNotYonetimSistemi) –  
+  A C# project for managing student grades.
+  
 
 ---
 
