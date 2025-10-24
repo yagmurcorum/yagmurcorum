@@ -45,7 +45,10 @@ With hands-on experience in **C# and Python projects**, as well as academic rese
   A library management system using XML in C#.  
 
 - 🧠 [**Intel Image Classification**](https://github.com/yagmurcorum/intel-image-classification) –  
-  6-class image classification using **CNN** and **EfficientNet-B0** architectures for feature extraction and transfer learning.  
+  6-class image classification using **CNN** and **EfficientNet-B0** architectures for feature extraction and transfer learning.
+    
+- ⭐ [**Yapay Zekâ Tez Rehberi**](https://github.com/yagmurcorum/yz-tez-rehberi) –  
+ This project is a RAG chatbot for a thesis on AI language models, providing answers with page references.
 
 - 📊 [**Sentiment Analysis Portfolio**](https://github.com/yagmurcorum/sentiment-analysis-portfolio) –  
   NLP project analyzing sentiments using Python.  
