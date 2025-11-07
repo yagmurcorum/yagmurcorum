@@ -50,8 +50,9 @@ With hands-on experience in **C# and Python projects**, as well as academic rese
 - ⭐ [**Yapay Zekâ Tez Rehberi**](https://github.com/yagmurcorum/yz-tez-rehberi) –  
  This project is a RAG chatbot for a thesis on AI language models, providing answers with page references.
 
-- 📊 [**Sentiment Analysis Portfolio**](https://github.com/yagmurcorum/sentiment-analysis-portfolio) –  
-  NLP project analyzing sentiments using Python.  
+- 🩺 [**Akıllı Doktor Asistanı**](https://github.com/yagmurcorum/akilli-doktor-asistani) –  
+  AI-powered health assistant built with **FastAPI**, **LangChain**, and **Gemini 2.5**, offering personalized, memory-aware medical guidance through a modern **Streamlit** web interface.  
+  Deployed on **Render (backend)** and **Streamlit Cloud (frontend)**, featuring CORS protection, multi-session memory, and responsive UI.
 
 - 🎓 [**Student Grade Management System**](https://github.com/yagmurcorum/OgrenciNotYonetimSistemi) –  
   A C# project for managing student grades.
